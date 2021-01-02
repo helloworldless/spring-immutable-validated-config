@@ -1,6 +1,0 @@
-app:
-  user: dev-user
-  threads: 2
-  user-api:
-    url: http://example.com
-
